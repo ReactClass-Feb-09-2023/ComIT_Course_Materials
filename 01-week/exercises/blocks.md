@@ -1,4 +1,4 @@
-# Lesson 02 - HTML Blocks
+# HTML Blocks
 
  HTML elements have a concept called `blocks`. An element is either `block` or `inline` (more on this later when we get to CSS).
 
@@ -47,8 +47,7 @@ You can display an image in a webpage by using the `img` tag. The image tag is *
 
 # Exercise Instructions
 
-1. 
-Fork the [HTML template](https://codesandbox.io/s/html-excercise-template-8id74) on Codesandbox
+1. Fork the [HTML template](https://codesandbox.io/s/empty-html-template-x3955) on Codesandbox
 2. Give the page a title "Photos of cats"
 3. Add a header title "My Favourite Cats"
 4. Add a paragraph below to match the formatting (without css)

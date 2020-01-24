@@ -6,7 +6,7 @@
    - It's free!
 3. React
 
-I chose the MDN course because it is well written and has a clear progression. It also includes an embedded code editor in many lessons to help explore what we have just learnt. 
+I chose the MDN course because it is well written and has a clear progression. It also includes an embedded code editor in many lessons to help explore what we have just learnt.
 
 When I first set out to learn JavaScript, Eloquent JavaScript (the first edition) was recommeneded to me and I found it a great way to learn. It is now in its third edition and has proven to be a great resource for learners over the years.
   
@@ -57,7 +57,7 @@ I'll be here to mentor and facilitate your learning, but it is up to you to go t
 - [Hyperlinks](./01-week/exercises/links.md)
 
 #### Assignments
-Use a [CodeSandbox template](https://codesandbox.io/s/html-excercise-template-8id74) to complete the following exercises
+Use a [CodeSandbox template](https://codesandbox.io/s/empty-html-template-x3955) to complete the following exercises
 
 1. [Marking up a letter](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Marking_up_a_letter)
 

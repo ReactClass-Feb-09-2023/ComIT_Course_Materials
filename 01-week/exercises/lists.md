@@ -70,7 +70,7 @@ HTML allows infinite nesting of lists, mixing and matching as needed. This can b
 
 # Exercise Instructions
 
-Fork the [HTML template](https://codesandbox.io/s/html-excercise-template-8id74) on Codesandbox:
+Fork the [HTML template](https://codesandbox.io/s/empty-html-template-x3955) on Codesandbox:
 
 - Add a document title: Hogwarts
 - Add a main title (`<h1>`): Hogwarts

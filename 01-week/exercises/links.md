@@ -101,10 +101,10 @@ Here's a few more things you can do with anchor tags
 
 # Exercise Instructions
 
-- Create the following files
-
+1. Fork our [HTML Template](https://codesandbox.io/s/empty-html-template-x3955) on CodeSandbox
+2. Create the following files in your sandbox
 ```
-/ex_5
+/
 |-- documents
 |   |-- resume.html
 |
@@ -114,7 +114,7 @@ Here's a few more things you can do with anchor tags
 |-- contact.html
 ```
 
-- On each document create:
+- In each HTML document should include:
   - Main title with the document name
   - From each document you should be able to nav to the other documents, example: from index.html you can navigate to news.html, about.html and contact.html
 - In index.html place 5 auto-generated paragraphs (you can use: https://www.lipsum.com to generate random text)
