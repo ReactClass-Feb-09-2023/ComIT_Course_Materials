@@ -193,6 +193,10 @@ Use a [CodeSandbox template](https://codesandbox.io/s/html-excercise-template-8i
 
 ### Beginning with React
 
+#### Tasks
+
+1. Mob program [Intro to React](https://reactjs.org/tutorial/tutorial.html)
+
 ## Week 9
 
 ### Continuing with React
