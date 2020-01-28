@@ -57,11 +57,9 @@ I'll be here to mentor and facilitate your learning, but it is up to you to go t
 - [Hyperlinks](./01-week/exercises/links.md)
 
 #### Assignments
-Use a [CodeSandbox template](https://codesandbox.io/s/empty-html-template-x3955) to complete the following exercises
+1. [Marking up a letter](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Marking_up_a_letter). You can use [this CodeSandbox template](https://codesandbox.io/s/marking-up-a-letter-oijup) to get started.
 
-1. [Marking up a letter](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Marking_up_a_letter)
-
-2. [Structuring a page of content](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Structuring_a_page_of_content)
+2. [Structuring a page of content](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Structuring_a_page_of_content). You can use [this CodeSandbox template](https://codesandbox.io/s/structuring-a-page-of-content-5uuo6) to get started.
 
 ## Week 2
 
