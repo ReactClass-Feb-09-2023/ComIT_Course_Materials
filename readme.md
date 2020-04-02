@@ -199,9 +199,17 @@ Use a [CodeSandbox template](https://codesandbox.io/s/html-excercise-template-8i
 
 ### Continuing with React
 
+Taking a libary that's a React component and building an app around it
+
+- [Palette Builder](https://github.com/drwlrsn/palette-builder)
+                                                                                                                                                                                                                                                                              
+
 ## Week 10
 
 ### Can't stop React
+
+[Firebase Demo](https://github.com/drwlrsn/firebase-demo)
+- saving data using a serverless solution
 
 ## Week 11
 
